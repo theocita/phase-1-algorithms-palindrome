@@ -15,7 +15,8 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
-  I called the function isPalindrome ans passed the argument "word" through it.
+  I called the function isPalindrome and passed the argument "word" through it.
+  When i returned it,  the word has to equal to the same word if it was flipped backwords.
 
 */
 
